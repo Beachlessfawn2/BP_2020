@@ -1,6 +1,0 @@
-https://cloud.google.com/about/locations#regions
-https://cloud.google.com/docs/compare
-https://cloud.google.com/solutions/devops/devops-tech-version-control
-https://cloud.google.com/docs/ci-cd
-https://cloud.google.com/cloud-build/docs/quickstart-build
-
