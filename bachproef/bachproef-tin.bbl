@@ -1,0 +1,474 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{apa/global/}
+    \entry{Barshefsky2005}{patent}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=907694df5c9907ae2af947fbc5252882}{%
+           family={Barshefsky},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {DUFT SETTER OLLILA \& BORNSEN LLC 2060 BROADWAYSUTE300BOULDER, CO 80302(US)}%
+      }
+      \strng{namehash}{907694df5c9907ae2af947fbc5252882}
+      \strng{fullhash}{907694df5c9907ae2af947fbc5252882}
+      \strng{authornamehash}{907694df5c9907ae2af947fbc5252882}
+      \strng{authorfullhash}{907694df5c9907ae2af947fbc5252882}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{number}{2005/0216486}
+      \field{title}{Methodes and systems for software release management}
+      \field{type}{patentus}
+      \field{year}{2005}
+    \endentry
+    \entry{Copeland2015}{book}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=b62e8dab8fb87c12e28a1178a35fb763}{%
+           family={Copeland},
+           familyi={C\bibinitperiod},
+           given={Marshall},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=5428ac39238317a1d399668b273dcb3b}{%
+           family={Soh},
+           familyi={S\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=e8aa506a39cd419994422f6b1d38a1be}{%
+           family={Puca},
+           familyi={P\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=c0613f846e331dc733d764d28505e728}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=46866b1965e1016f1955402371a60178}{%
+           family={Gollob},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag GmbH}%
+      }
+      \strng{namehash}{2aace96f34ab7db98aa4d3d79e160d5f}
+      \strng{fullhash}{248c406fb7eac988a3303c88c383c0c5}
+      \strng{authornamehash}{2aace96f34ab7db98aa4d3d79e160d5f}
+      \strng{authorfullhash}{248c406fb7eac988a3303c88c383c0c5}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{8}
+      \field{isbn}{9781484210437}
+      \field{month}{10}
+      \field{title}{{Microsoft Azure}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{url}
+      \verb https://www.ebook.de/de/product/25127919/marshall_copeland_julian_soh_anthony_puca_mike_manning_david_gollob_microsoft_azure.html
+      \endverb
+    \endentry
+    \entry{Ebert2016}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=0a42c5417e74c35afa6f539302ff2574}{%
+           family={Ebert},
+           familyi={E\bibinitperiod},
+           given={Christof},
+           giveni={C\bibinitperiod}}}%
+        {{uniquename=0,hash=312249b05a2c12a33d8208270b38b61a}{%
+           family={Gallardo},
+           familyi={G\bibinitperiod},
+           given={Gorka},
+           giveni={G\bibinitperiod}}}%
+        {{uniquename=0,hash=3310ef57a8df2a9f3e55a222d613fe3d}{%
+           family={Hernantes},
+           familyi={H\bibinitperiod},
+           given={Josune},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=1a19b0399079044578714544cf27eba3}{%
+           family={Serrano},
+           familyi={S\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{2168b712543e57f6ec63fc50f3a77013}
+      \strng{fullhash}{901637b930b796186b4395b5631bb25b}
+      \strng{authornamehash}{2168b712543e57f6ec63fc50f3a77013}
+      \strng{authorfullhash}{901637b930b796186b4395b5631bb25b}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Software}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{{DevOps}}
+      \field{volume}{33}
+      \field{year}{2016}
+      \field{pages}{94\bibrangedash 100}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/ms.2016.68
+      \endverb
+    \endentry
+    \entry{BITCWISCACB}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=e7e8d17aafd0c4eaaf37244b145eb9e8}{%
+           family={Folkerts},
+           familyi={F\bibinitperiod},
+           given={Enno},
+           giveni={E\bibinitperiod}}}%
+        {{uniquename=0,hash=6cfbd20dda63a803cbc0e2c625157802}{%
+           family={Alexandrov},
+           familyi={A\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=ff8f0814acf884df7ec247520947d5d6}{%
+           family={Sachs},
+           familyi={S\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=a75eb74f3b66a4d93355b1b8be243552}{%
+           family={Iosup},
+           familyi={I\bibinitperiod},
+           given={Alexandru},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=21e42605859bb8c5a24c47387feadc9d}{%
+           family={Markl},
+           familyi={M\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=857e4ca8f9d6c6da2ac940617b94f94b}{%
+           family={Tosun},
+           familyi={T\bibinitperiod},
+           given={Cafer},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{52ca34752e25cbf52b9c66628a47d2ff}
+      \strng{fullhash}{689ccb9a69cb4b40f0ff71c7ad4d96bf}
+      \strng{authornamehash}{52ca34752e25cbf52b9c66628a47d2ff}
+      \strng{authorfullhash}{689ccb9a69cb4b40f0ff71c7ad4d96bf}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Springer-Verlag Berlin Heidelberg}
+      \field{note}{TPCTC 2012, LNCS 7755}
+      \field{title}{Benchmarking in the cloud: what it should, can, and cannot be}
+      \field{year}{2013}
+    \endentry
+    \entry{Jackson2010}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,hash=b76f8ad6e85b2c64d2df1782bba9754f}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Keith\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{uniquename=0,hash=cdc68702cda666d7303848a3b917bfbb}{%
+           family={Ramakrishnan},
+           familyi={R\bibinitperiod},
+           given={Lavanya},
+           giveni={L\bibinitperiod}}}%
+        {{uniquename=0,hash=ff8359e375c42428375fea4f00ac12eb}{%
+           family={Muriki},
+           familyi={M\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=5ff0a10b3446e99d05aaf864ba33ec87}{%
+           family={Canon},
+           familyi={C\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=2fe72fe0e3063bf47737d661d057bfbb}{%
+           family={Cholia},
+           familyi={C\bibinitperiod},
+           given={Shreyas},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=8411e32c5282692ec8fb33ae8efc7b3a}{%
+           family={Shalf},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{uniquename=0,hash=01180d3a3cb8a2dbb36e7504bbf1d6b4}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={Harvey\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{uniquename=0,hash=238a0c8f0624bcd41c9bddac15af4dbc}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3e781e29fc0e30ea260cebb3b1012a95}
+      \strng{fullhash}{bd7be7f93af7fba2d26cdaf66583ab44}
+      \strng{authornamehash}{3e781e29fc0e30ea260cebb3b1012a95}
+      \strng{authorfullhash}{bd7be7f93af7fba2d26cdaf66583ab44}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2010 {IEEE} Second International Conference on Cloud Computing Technology and Science}
+      \field{month}{11}
+      \field{title}{Performance analysis of high performance computing applications on the amazon web services cloud}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1109/cloudcom.2010.69
+      \endverb
+    \endentry
+    \entry{STBOCC}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=eecdd1f4279a57107d6654132a905e12}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={Wang},
+           giveni={W\bibinitperiod}}}%
+        {{uniquename=0,hash=008e6d4486a228a34b2e098e870cf63c}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Fanpeng},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4989171b092fcb24c278bfcc1de6e9be}
+      \strng{fullhash}{4989171b092fcb24c278bfcc1de6e9be}
+      \strng{authornamehash}{4989171b092fcb24c278bfcc1de6e9be}
+      \strng{authorfullhash}{4989171b092fcb24c278bfcc1de6e9be}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 International Conference on Internet Computing and Information Services}
+      \field{month}{9}
+      \field{title}{{Software Testing Based on Cloud Computing}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1109/icicis.2011.51
+      \endverb
+    \endentry
+    \entry{CSTVCT}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1d55c2c9cde654bac640921558406272}{%
+           family={Katherine},
+           familyi={K\bibinitperiod},
+           given={Mrs.A.Vanitha},
+           giveni={M\bibinitperiod}}}%
+        {{uniquename=0,hash=d7a4210943694f9443b370f31230a8d4}{%
+           family={Alagarsamy},
+           familyi={A\bibinitperiod},
+           given={Dr.\bibnamedelimi K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{cda9b22cca700c711de558095b36801c}
+      \strng{fullhash}{cda9b22cca700c711de558095b36801c}
+      \strng{authornamehash}{cda9b22cca700c711de558095b36801c}
+      \strng{authorfullhash}{cda9b22cca700c711de558095b36801c}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2229-5518}
+      \field{journaltitle}{International Journal Of Scientific \& Engineering Research}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Conventional software testing vs cloud testing.}
+      \field{volume}{3}
+      \field{year}{2012}
+    \endentry
+    \entry{Lahtela2011}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8265fdcdcc7f790b2ed716ae27fa3258}{%
+           family={Lahtela},
+           familyi={L\bibinitperiod},
+           given={Antti},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=a72a3de890e08006c802b86f04a89d76}{%
+           family={Jantti},
+           familyi={J\bibinitperiod},
+           given={Marko},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{62dd9d8dada269fe8094142f1d87c794}
+      \strng{fullhash}{62dd9d8dada269fe8094142f1d87c794}
+      \strng{authornamehash}{62dd9d8dada269fe8094142f1d87c794}
+      \strng{authorfullhash}{62dd9d8dada269fe8094142f1d87c794}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 {IEEE} 2nd International Conference on Software Engineering and Service Science}
+      \field{month}{7}
+      \field{title}{{Challenges and problems in release management process: A case study}}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1109/icsess.2011.5982242
+      \endverb
+    \endentry
+    \entry{Meyer2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=63cca50a6ea30d429d4a3b6e79a596e3}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Mathias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{63cca50a6ea30d429d4a3b6e79a596e3}
+      \strng{fullhash}{63cca50a6ea30d429d4a3b6e79a596e3}
+      \strng{authornamehash}{63cca50a6ea30d429d4a3b6e79a596e3}
+      \strng{authorfullhash}{63cca50a6ea30d429d4a3b6e79a596e3}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Software}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Continuous integration and its tools}
+      \field{volume}{31}
+      \field{year}{2014}
+      \field{pages}{14\bibrangedash 16}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/ms.2014.58
+      \endverb
+    \endentry
+    \entry{WTMSTTTC}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=05718901c3fb35b9ddd4226091d2f85b}{%
+           family={Parveen},
+           familyi={P\bibinitperiod},
+           given={Tauhida},
+           giveni={T\bibinitperiod}}}%
+        {{uniquename=0,hash=0500143dd2bd6e69330f83b25843c806}{%
+           family={Tilley},
+           familyi={T\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2dda23204028e91cb3ea4e68bb3d6ef8}
+      \strng{fullhash}{2dda23204028e91cb3ea4e68bb3d6ef8}
+      \strng{authornamehash}{2dda23204028e91cb3ea4e68bb3d6ef8}
+      \strng{authorfullhash}{2dda23204028e91cb3ea4e68bb3d6ef8}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2010 Third International Conference on Software Testing, Verification, and Validation Workshops}
+      \field{journaltitle}{Third International Conference on Software Testing, Verification, and Validation Workshops}
+      \field{month}{4}
+      \field{note}{DOI 10.1109/ICSTW.2010.77 IEEE}
+      \field{title}{When to migrate software testing to the cloud?}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1109/ICSTW.2010.77
+      \endverb
+    \endentry
+    \entry{Hoek2002}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2c242f4c0786146ec1662a248b822f6a}{%
+           family={Hoek},
+           familyi={H\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{uniquename=0,hash=4d4cb6685b95c81c4b9ad177b60a7e59}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Alexander\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{459850c31121258ddb65184107f25c9f}
+      \strng{fullhash}{459850c31121258ddb65184107f25c9f}
+      \strng{authornamehash}{459850c31121258ddb65184107f25c9f}
+      \strng{authorfullhash}{459850c31121258ddb65184107f25c9f}
+      \field{sortinit}{v}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Software: Practice and Experience}
+      \field{number}{1}
+      \field{title}{Software release management for component-based software}
+      \field{volume}{33}
+      \field{year}{2002}
+      \field{pages}{77\bibrangedash 98}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1002/spe.496
+      \endverb
+    \endentry
+  \endsortlist
+  \missing{Pollefliet2011}
+\endrefsection
+\endinput
+
