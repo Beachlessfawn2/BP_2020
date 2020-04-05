@@ -1,0 +1,4 @@
+https://aws.amazon.com/what-is-aws/?nc2=h_ql_le_int
+https://aws.amazon.com/hybrid/
+https://aws.amazon.com/quickstart/architecture/dotnet-cicd-on-aws/
+
