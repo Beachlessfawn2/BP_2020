@@ -6,13 +6,25 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Figuur uit \autocite {Hoek2002}. Figuur toont een simpele chart van hoe een software release management systeem opgebouwd kan zijn.\relax }}{19}{figure.caption.6}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Figuur uit \autocite {Hoek2002}. Figuur toont een simpel diagram van hoe een software release management systeem opgebouwd kan zijn.\relax }}{21}{figure.caption.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Figuur uit \autocite {Barshefsky2005}. Flowchart van een niet geautomatiseerde versie beheer procedure.\relax }}{22}{figure.caption.7}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Figuur uit \autocite {Barshefsky2005}. Diagram van een niet geautomatiseerde versie beheer procedure.\relax }}{24}{figure.caption.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Figuur van (https://p2zk82o7hr3yb6ge7gzxx4ki-wpengine.netdna-ssl.com/wp-content/uploads/azure-vm-types-comparison-1.jpg). Chart met alle VM tiers van azure en hun specifieke code.\relax }}{27}{figure.caption.8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Figuur van (https://p2zk82o7hr3yb6ge7gzxx4ki-wpengine.netdna-ssl.com/wp-content/uploads/azure-vm-types-comparison-1.jpg). Chart met alle VM tiers van azure en hun specifieke code.\relax }}{30}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Figuur van \href {https://azure.microsoft.com/nl-nl/pricing/details/devops/azure-devops-services/}{Azure DeVops website}. Figuur toont de prijzen voor Azure DeVops op een beknopte manier.\relax }}{36}{figure.caption.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Figuur van \href {https://cloud.google.com/cloud-build/pricing}{Google Cloud website}. Figuur toont de prijzen voor Google Cloud Platform op een beknopte manier.\relax }}{38}{figure.caption.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Figuur van \href {}{AWS website}. Figuur toont de prijzen van AWS per rekenkracht, OS en verstreken minuut.\relax }}{39}{figure.caption.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Figuur van \href {}{AWS website}. Figuur toont berekening van prijzen per compileer minuut voor AWS.\relax }}{40}{figure.caption.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Figuur van \href {}{AWS website}. Figuur toont prijs voor opslag op AWS.\relax }}{40}{figure.caption.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Figuur van \href {}{Google Cloud website}. Figuur toont de connectiviteit van de verschillende datacenters verspreid over de wereld.\relax }}{42}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

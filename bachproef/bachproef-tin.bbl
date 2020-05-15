@@ -98,6 +98,44 @@
       \verb https://www.ebook.de/de/product/25127919/marshall_copeland_julian_soh_anthony_puca_mike_manning_david_gollob_microsoft_azure.html
       \endverb
     \endentry
+    \entry{Debroy2018}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=966cd318217ac758051f95606e4e006a}{%
+           family={Debroy},
+           familyi={D\bibinitperiod},
+           given={Vidroha},
+           giveni={V\bibinitperiod}}}%
+        {{uniquename=0,hash=b562d295e018da5713f195e881195cdb}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Senecca},
+           giveni={S\bibinitperiod}}}%
+        {{uniquename=0,hash=024d0eb526dd48510d02e44c5b88eea4}{%
+           family={Brimble},
+           familyi={B\bibinitperiod},
+           given={Lance},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{ACM} Press}%
+      }
+      \strng{namehash}{bc5287296248aad024f4401da0751f96}
+      \strng{fullhash}{1a0b5ba465ba0f304a57b92644e3ef42}
+      \strng{authornamehash}{bc5287296248aad024f4401da0751f96}
+      \strng{authorfullhash}{1a0b5ba465ba0f304a57b92644e3ef42}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2018 26th {ACM} Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering - {ESEC}/{FSE} 2018}
+      \field{title}{Building lean continuous integration and delivery pipelines by applying {DevOps} principles: a case study at varidesk}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1145/3236024.3275528
+      \endverb
+    \endentry
     \entry{Ebert2016}{article}{}
       \name{author}{4}{}{%
         {{uniquename=0,hash=0a42c5417e74c35afa6f539302ff2574}{%
@@ -468,7 +506,6 @@
       \endverb
     \endentry
   \endsortlist
-  \missing{Pollefliet2011}
 \endrefsection
 \endinput
 

@@ -4,71 +4,107 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Inleiding}{15}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Probleemstelling}{15}{section.1.1}
+\contentsline {section}{\numberline {1.1}Probleemstelling}{16}{section.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Onderzoeksvraag}{16}{section.1.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{16}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{16}{section.1.4}
+\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{17}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Stand van zaken}{17}{chapter.2}
+\contentsline {chapter}{\numberline {2}Stand van zaken}{19}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.1}Software release management for component-based software}{17}{subsection.2.0.1}
+\contentsline {section}{\numberline {2.1}Continuous Integration \& Continuous Deployment}{19}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.2}Challenges and Problems in Release Management Process: A Case Study}{19}{subsection.2.0.2}
+\contentsline {subsection}{\numberline {2.1.1}Software release management for component-based software}{19}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.3}Methodes and Systems for Software Release Management}{21}{subsection.2.0.3}
+\contentsline {subsection}{\numberline {2.1.2}Challenges and Problems in Release Management Process: A Case Study}{21}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.4}Continuous Integration and Its Tools}{23}{subsection.2.0.4}
+\contentsline {subsection}{\numberline {2.1.3}Methodes and Systems for Software Release Management}{23}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.5}DeVops}{23}{subsection.2.0.5}
+\contentsline {subsection}{\numberline {2.1.4}Continuous Integration and Its Tools}{23}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Amazon AWS}{24}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.5}DeVops}{25}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Performance Analysis of High Performance Computing Applications on the Amazon Web Services Cloud}{24}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.6}Building Lean Continuous Integration and Delivery Pipelines by Applying devOps Principles: A Case Study at Varidesk}{26}{subsection.2.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Microsoft Azure}{25}{section.2.2}
+\contentsline {section}{\numberline {2.2}Amazon AWS}{27}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Microsoft Azure and cloud computing}{25}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Performance Analysis of High Performance Computing Applications on the Amazon Web Services Cloud}{27}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Microsoft Azure Documentation}{26}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Microsoft Azure}{28}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{29}{chapter.3}
+\contentsline {subsection}{\numberline {2.3.1}Microsoft Azure and cloud computing}{28}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{31}{chapter.4}
+\contentsline {subsection}{\numberline {2.3.2}Microsoft Azure Documentation}{29}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{33}{appendix.A}
+\contentsline {chapter}{\numberline {3}Methodologie}{33}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{33}{section.A.1}
+\contentsline {section}{\numberline {3.1}Vergelijking}{34}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{34}{section.A.2}
+\contentsline {subsection}{\numberline {3.1.1}Azure DeVops}{34}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.1}Conventional Software Testing Vs. Cloud Testing}{34}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {3.1.2}Google Cloud}{36}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.2}Software Testing Based on Cloud Computing}{34}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {3.1.3}Amazon Web Services}{38}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.3}Benchmarking in the Cloud: What It Should, Can, and Cannot Be}{35}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {3.1.4}IBM Cloud}{40}{subsection.3.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.4}When to Migrate Software Testing to the Cloud?}{35}{subsection.A.2.4}
+\contentsline {subsection}{\numberline {3.1.5}Andere}{41}{subsection.3.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{35}{section.A.3}
+\contentsline {subsection}{\numberline {3.1.6}Kandidaat}{42}{subsection.3.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{36}{section.A.4}
+\contentsline {section}{\numberline {3.2}Proof Of Concept}{43}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.1}Vergelijking van platformen}{36}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {3.2.1}Beschrijving}{43}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.2}Proof of concept}{36}{subsection.A.4.2}
+\contentsline {subsection}{\numberline {3.2.2}Moeilijkheden}{43}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.3}beveiliging experiment}{36}{subsection.A.4.3}
+\contentsline {subsection}{\numberline {3.2.3}Uitvoering}{43}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{37}{section.A.5}
+\contentsline {subsection}{\numberline {3.2.4}Resultaat \& Bedenkingen}{43}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.1}Vergelijking van platformen}{37}{subsection.A.5.1}
+\contentsline {section}{\numberline {3.3}Vergelijking met Azure DeVops}{43}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.2}Proof of concept}{37}{subsection.A.5.2}
+\contentsline {subsection}{\numberline {3.3.1}Beschrijving}{43}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.3}beveiliging experiment}{37}{subsection.A.5.3}
+\contentsline {subsection}{\numberline {3.3.2}Uitvoering}{43}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{39}{appendix*.9}
+\contentsline {subsection}{\numberline {3.3.3}Resultaat \& Bedenkingen}{43}{subsection.3.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclusie}{45}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{47}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{47}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{48}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.1}Conventional Software Testing Vs. Cloud Testing}{48}{subsection.A.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.2}Software Testing Based on Cloud Computing}{48}{subsection.A.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.3}Benchmarking in the Cloud: What It Should, Can, and Cannot Be}{49}{subsection.A.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2.4}When to Migrate Software Testing to the Cloud?}{49}{subsection.A.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{49}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{50}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.4.1}Vergelijking van platformen}{50}{subsection.A.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.4.2}Proof of concept}{50}{subsection.A.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.4.3}beveiliging experiment}{50}{subsection.A.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{51}{section.A.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.5.1}Vergelijking van platformen}{51}{subsection.A.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.5.2}Proof of concept}{51}{subsection.A.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.5.3}beveiliging experiment}{51}{subsection.A.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{53}{appendix*.15}
 \contentsfinish 
