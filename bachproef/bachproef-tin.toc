@@ -54,57 +54,53 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.6}Kandidaat}{42}{subsection.3.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Proof Of Concept}{43}{section.3.2}
+\contentsline {section}{\numberline {3.2}Kandidaat Selectie}{43}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Beschrijving}{43}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.1}Java Amazon AWS}{46}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Moeilijkheden}{43}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Java Google Cloud Platform}{46}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Uitvoering}{43}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Java Azure DeVops}{46}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.4}Resultaat \& Bedenkingen}{43}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Proof Of Concept}{46}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Vergelijking met Azure DeVops}{43}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Google Cloud Platform}{49}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Beschrijving}{43}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Azure DeVops}{54}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Uitvoering}{43}{subsection.3.3.2}
+\contentsline {chapter}{\numberline {4}Conclusie}{63}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Resultaat \& Bedenkingen}{43}{subsection.3.3.3}
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{65}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{45}{chapter.4}
+\contentsline {section}{\numberline {A.1}Introductie}{65}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{47}{appendix.A}
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{66}{section.A.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{47}{section.A.1}
+\contentsline {subsection}{\numberline {A.2.1}Conventional Software Testing Vs. Cloud Testing}{66}{subsection.A.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{48}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.2}Software Testing Based on Cloud Computing}{66}{subsection.A.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.1}Conventional Software Testing Vs. Cloud Testing}{48}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.3}Benchmarking in the Cloud: What It Should, Can, and Cannot Be}{67}{subsection.A.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.2}Software Testing Based on Cloud Computing}{48}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.4}When to Migrate Software Testing to the Cloud?}{67}{subsection.A.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.3}Benchmarking in the Cloud: What It Should, Can, and Cannot Be}{49}{subsection.A.2.3}
+\contentsline {section}{\numberline {A.3}Methodologie}{67}{section.A.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.4}When to Migrate Software Testing to the Cloud?}{49}{subsection.A.2.4}
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{68}{section.A.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{49}{section.A.3}
+\contentsline {subsection}{\numberline {A.4.1}Vergelijking van platformen}{68}{subsection.A.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{50}{section.A.4}
+\contentsline {subsection}{\numberline {A.4.2}Proof of concept}{68}{subsection.A.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.1}Vergelijking van platformen}{50}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A.4.3}beveiliging experiment}{68}{subsection.A.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.2}Proof of concept}{50}{subsection.A.4.2}
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{69}{section.A.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.3}beveiliging experiment}{50}{subsection.A.4.3}
+\contentsline {subsection}{\numberline {A.5.1}Vergelijking van platformen}{69}{subsection.A.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{51}{section.A.5}
+\contentsline {subsection}{\numberline {A.5.2}Proof of concept}{69}{subsection.A.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.1}Vergelijking van platformen}{51}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A.5.3}beveiliging experiment}{69}{subsection.A.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.2}Proof of concept}{51}{subsection.A.5.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.3}beveiliging experiment}{51}{subsection.A.5.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{53}{appendix*.15}
+\contentsline {chapter}{Bibliografie}{71}{appendix*.26}
 \contentsfinish 

@@ -1,0 +1,17 @@
+    steps:
+    - name: 'mcr.microsoft.com/dotnet/core/sdk:3.1'
+    entrypoint: 'dotnet'
+    args: [ 'test' ]
+    - name: 'mcr.microsoft.com/dotnet/core/sdk:3.1'
+    entrypoint: 'dotnet'
+    args: [ 'publish', '-c', 'Release', '-r', 'win10-x64' ]
+    - name: 'mcr.microsoft.com/dotnet/core/sdk:3.1'
+    entrypoint: 'bash'
+    args: [ './tarring.sh' ]
+    - name: 'ubuntu'
+    entrypoint: 'bash'
+    args: [ './filetrans.sh']
+    artifacts:
+    objects:
+    location: 'gs://net-demo-output-bucket/'
+    paths: ['/workspace/MessageUtil/bin/Release/netcoreapp3.1/win10-x64/messageutil-win10-x64.tar.gz']
