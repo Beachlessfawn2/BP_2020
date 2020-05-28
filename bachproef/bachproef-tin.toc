@@ -18,25 +18,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Continuous Integration \& Continuous Deployment}{21}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Software release management for component-based software}{21}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Software release management voor component gebaseerde software}{22}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Challenges and Problems in Release Management Process: A Case Study}{23}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Uitdagingen en problemen in het Release Management Process: een Casestudie}{24}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Methodes and Systems for Software Release Management}{25}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.3}Methodes en Systemen voor Software Release Management}{25}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Continuous Integration and Its Tools}{25}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.4}Continuous Integration en de Tools}{27}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.5}DeVops}{27}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.6}Building Lean Continuous Integration and Delivery Pipelines by Applying devOps Principles: A Case Study at Varidesk}{28}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.6}Continuous Integration en Release Pipelines bouwen door het toepassen DevOps Principes: een Casestudie bij Varidesk}{28}{subsection.2.1.6}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Amazon AWS}{29}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Performance Analysis of High Performance Computing Applications on the Amazon Web Services Cloud}{29}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Prestatie Analyse van hoge prestatie reken applicaties op Amazon Web Services Cloud}{29}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Microsoft Azure}{30}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Microsoft Azure and cloud computing}{30}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Microsoft Azure en Cloud computing}{30}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.2}Microsoft Azure Documentation}{31}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
