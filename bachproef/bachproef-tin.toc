@@ -2,105 +2,107 @@
 \defcounter {refsection}{0}\relax 
 \select@language {dutch}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Inleiding}{15}{chapter.1}
+\contentsline {chapter}{\numberline {1}Inleiding}{17}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Probleemstelling}{16}{section.1.1}
+\contentsline {section}{\numberline {1.1}Probleemstelling}{18}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{16}{section.1.2}
+\contentsline {section}{\numberline {1.2}Use Case}{18}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{16}{section.1.3}
+\contentsline {section}{\numberline {1.3}Onderzoeksvraag}{19}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{17}{section.1.4}
+\contentsline {section}{\numberline {1.4}Onderzoeksdoelstelling}{19}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Stand van zaken}{19}{chapter.2}
+\contentsline {section}{\numberline {1.5}Opzet van deze bachelorproef}{19}{section.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Continuous Integration \& Continuous Deployment}{19}{section.2.1}
+\contentsline {chapter}{\numberline {2}Stand van zaken}{21}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}Software release management for component-based software}{19}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.1}Continuous Integration \& Continuous Deployment}{21}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.2}Challenges and Problems in Release Management Process: A Case Study}{21}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.1}Software release management for component-based software}{21}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Methodes and Systems for Software Release Management}{23}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.2}Challenges and Problems in Release Management Process: A Case Study}{23}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Continuous Integration and Its Tools}{23}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.3}Methodes and Systems for Software Release Management}{25}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.5}DeVops}{25}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.4}Continuous Integration and Its Tools}{25}{subsection.2.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.6}Building Lean Continuous Integration and Delivery Pipelines by Applying devOps Principles: A Case Study at Varidesk}{26}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.5}DeVops}{27}{subsection.2.1.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Amazon AWS}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.1.6}Building Lean Continuous Integration and Delivery Pipelines by Applying devOps Principles: A Case Study at Varidesk}{28}{subsection.2.1.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Performance Analysis of High Performance Computing Applications on the Amazon Web Services Cloud}{27}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.2}Amazon AWS}{29}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Microsoft Azure}{28}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.1}Performance Analysis of High Performance Computing Applications on the Amazon Web Services Cloud}{29}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Microsoft Azure and cloud computing}{28}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.3}Microsoft Azure}{30}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Microsoft Azure Documentation}{29}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.1}Microsoft Azure and cloud computing}{30}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{33}{chapter.3}
+\contentsline {subsection}{\numberline {2.3.2}Microsoft Azure Documentation}{31}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Vergelijking}{34}{section.3.1}
+\contentsline {chapter}{\numberline {3}Methodologie}{35}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Azure DeVops}{34}{subsection.3.1.1}
+\contentsline {chapter}{\numberline {4}Kandidaat Selectie}{37}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Google Cloud}{36}{subsection.3.1.2}
+\contentsline {section}{\numberline {4.1}Azure DeVops}{37}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Amazon Web Services}{38}{subsection.3.1.3}
+\contentsline {section}{\numberline {4.2}Google Cloud}{39}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}IBM Cloud}{40}{subsection.3.1.4}
+\contentsline {section}{\numberline {4.3}Amazon Web Services}{41}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.5}Andere}{41}{subsection.3.1.5}
+\contentsline {section}{\numberline {4.4}IBM Cloud}{44}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.6}Kandidaat}{42}{subsection.3.1.6}
+\contentsline {section}{\numberline {4.5}Andere}{45}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Kandidaat Selectie}{43}{section.3.2}
+\contentsline {section}{\numberline {4.6}Gebruiksvriendelijkheid}{46}{section.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Java Amazon AWS}{46}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {4.6.1}Java Amazon AWS}{49}{subsection.4.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Java Google Cloud Platform}{46}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {4.6.2}Java Google Cloud Platform}{50}{subsection.4.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Java Azure DeVops}{46}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {4.6.3}Java Azure DeVops}{52}{subsection.4.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Proof Of Concept}{46}{section.3.3}
+\contentsline {section}{\numberline {4.7}Kandidaat}{54}{section.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Google Cloud Platform}{49}{subsection.3.3.1}
+\contentsline {chapter}{\numberline {5}Proof Of Concept}{57}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Azure DeVops}{54}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {5.0.1}Google Cloud Platform}{60}{subsection.5.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{63}{chapter.4}
+\contentsline {subsection}{\numberline {5.0.2}Azure DeVops}{65}{subsection.5.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{65}{appendix.A}
+\contentsline {chapter}{\numberline {6}Conclusie}{73}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{65}{section.A.1}
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{75}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Literatuurstudie}{66}{section.A.2}
+\contentsline {section}{\numberline {A.1}Introductie}{75}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.1}Conventional Software Testing Vs. Cloud Testing}{66}{subsection.A.2.1}
+\contentsline {section}{\numberline {A.2}Literatuurstudie}{76}{section.A.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.2}Software Testing Based on Cloud Computing}{66}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.1}Conventional Software Testing Vs. Cloud Testing}{76}{subsection.A.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.3}Benchmarking in the Cloud: What It Should, Can, and Cannot Be}{67}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {A.2.2}Software Testing Based on Cloud Computing}{76}{subsection.A.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.2.4}When to Migrate Software Testing to the Cloud?}{67}{subsection.A.2.4}
+\contentsline {subsection}{\numberline {A.2.3}Benchmarking in the Cloud: What It Should, Can, and Cannot Be}{77}{subsection.A.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{67}{section.A.3}
+\contentsline {subsection}{\numberline {A.2.4}When to Migrate Software Testing to the Cloud?}{77}{subsection.A.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{68}{section.A.4}
+\contentsline {section}{\numberline {A.3}Methodologie}{77}{section.A.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.1}Vergelijking van platformen}{68}{subsection.A.4.1}
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{78}{section.A.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.2}Proof of concept}{68}{subsection.A.4.2}
+\contentsline {subsection}{\numberline {A.4.1}Vergelijking van platformen}{78}{subsection.A.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.4.3}beveiliging experiment}{68}{subsection.A.4.3}
+\contentsline {subsection}{\numberline {A.4.2}Proof of concept}{78}{subsection.A.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{69}{section.A.5}
+\contentsline {subsection}{\numberline {A.4.3}beveiliging experiment}{78}{subsection.A.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.1}Vergelijking van platformen}{69}{subsection.A.5.1}
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{79}{section.A.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.2}Proof of concept}{69}{subsection.A.5.2}
+\contentsline {subsection}{\numberline {A.5.1}Vergelijking van platformen}{79}{subsection.A.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {A.5.3}beveiliging experiment}{69}{subsection.A.5.3}
+\contentsline {subsection}{\numberline {A.5.2}Proof of concept}{79}{subsection.A.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{71}{appendix*.26}
+\contentsline {subsection}{\numberline {A.5.3}beveiliging experiment}{79}{subsection.A.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{81}{appendix*.30}
 \contentsfinish 

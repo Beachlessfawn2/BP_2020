@@ -6,47 +6,55 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Figuur uit \autocite {Hoek2002}. Figuur toont een simpel diagram van hoe een software release management systeem opgebouwd kan zijn.\relax }}{21}{figure.caption.6}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Figuur uit \autocite {Hoek2002}. Figuur toont een simpel diagram van hoe een software release management systeem opgebouwd kan zijn.\relax }}{23}{figure.caption.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Figuur uit \autocite {Barshefsky2005}. Diagram van een niet geautomatiseerde versie beheer procedure.\relax }}{24}{figure.caption.7}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Figuur uit \autocite {Barshefsky2005}. Diagram van een niet geautomatiseerde versie beheer procedure.\relax }}{26}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Figuur van (https://p2zk82o7hr3yb6ge7gzxx4ki-wpengine.netdna-ssl.com/wp-content/uploads/azure-vm-types-comparison-1.jpg). Chart met alle VM tiers van azure en hun specifieke code.\relax }}{30}{figure.caption.8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Figuur van (https://p2zk82o7hr3yb6ge7gzxx4ki-wpengine.netdna-ssl.com/wp-content/uploads/azure-vm-types-comparison-1.jpg). Chart met alle VM tiers van azure en hun specifieke code.\relax }}{32}{figure.caption.9}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Figuur van \href {https://azure.microsoft.com/nl-nl/pricing/details/devops/azure-devops-services/}{Azure DeVops website}. Figuur toont de prijzen voor Azure DeVops op een beknopte manier.\relax }}{36}{figure.caption.9}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Figuur van \href {https://cloud.google.com/cloud-build/pricing}{Google Cloud website}. Figuur toont de prijzen voor Google Cloud Platform op een beknopte manier.\relax }}{38}{figure.caption.10}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Prijzen van Azure DeVops. \href {https://azure.microsoft.com/nl-nl/pricing/details/devops/azure-devops-services/}{Afbeelding van Azure DeVops website}. Figuur toont de prijzen voor Azure DeVops op een beknopte manier.\relax }}{39}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Figuur van \href {}{AWS website}. Figuur toont de prijzen van AWS per rekenkracht, OS en verstreken minuut.\relax }}{39}{figure.caption.11}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces GCB prijzen. \href {https://cloud.google.com/cloud-build/pricing}{Figuur van Google Cloud website}. Figuur toont de prijzen voor Google Cloud Platform op een beknopte manier.\relax }}{41}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Figuur van \href {}{AWS website}. Figuur toont berekening van prijzen per compileer minuut voor AWS.\relax }}{40}{figure.caption.12}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \href {prijzen AWS computekracht.}{Figuur van AWS website}. Figuur toont de prijzen van AWS per rekenkracht, OS en verstreken minuut.\relax }}{43}{figure.caption.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Figuur van \href {}{AWS website}. Figuur toont prijs voor opslag op AWS.\relax }}{40}{figure.caption.13}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces compileer prijzen AWS.\href {}{Figuur van AWS website}. Figuur toont berekening van prijzen per compileer minuut voor AWS.\relax }}{43}{figure.caption.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Figuur van \href {}{Google Cloud website}. Figuur toont de connectiviteit van de verschillende datacenters verspreid over de wereld.\relax }}{42}{figure.caption.14}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces extra kosten. \href {}{Figuur van AWS website}. Figuur toont prijs voor opslag op AWS.\relax }}{44}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Figuur toont het scherm om een nieuw project te cre\IeC {\"e}ren op Google Cloud.\relax }}{49}{figure.caption.15}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces BronCode locatie seleceteren op AWS. Deze figuur toont het selecteren van een GitHub repositorie bij het aanmaken van een pipeline op Amazon AWS.\relax }}{50}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Figuur toont het scherm met een gecre\IeC {\"e}erde Storage Bucket en de geconfigureerde opties op Google Cloud.\relax }}{50}{figure.caption.16}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Een ingebouwd dashboard op Azure DeVops. Dit dashboard geeft de resultaten van de uitgevoerde testen tijdens de laatste compilatie.\relax }}{54}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Figuur toont het scherm van Google Cloud met een gecre\IeC {\"e}erde Trigger op de tak 'Build' op GitHub.\relax }}{52}{figure.caption.17}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Overzicht van datacenter locaties Google Cloud. Figuur van \href {}{Google Cloud website}. Figuur toont de connectiviteit van de verschillende datacenters verspreid over de wereld.\relax }}{55}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Figuur toont de uitvoer van de gecompileerde applicatie op een lokale Windows Server 2019. Applicatie is gekopieerd door middel van \emph {script~\ref {code:filetrans}}.\relax }}{53}{figure.caption.18}
+\addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Figuur toont het resultaat van de compilatie stappen op Google Cloud. Ook zijn er een aantal andere logs te bekijken op dit scherm.\relax }}{53}{figure.caption.19}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces New Project scherm op Google Cloud. Figuur toont het scherm om een nieuw project te cre\IeC {\"e}ren op Google Cloud.\relax }}{60}{figure.caption.19}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Figuur toont een simpel dashboard met gegevens over de compilatie pijpleiding.\relax }}{54}{figure.caption.20}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Storage Bucket scherm op Google Cloud. Figuur toont het scherm met een gecre\IeC {\"e}erde Storage Bucket en de geconfigureerde opties op Google Cloud.\relax }}{61}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Figuur toont een nieuw aangemaakt project op Azure DeVops.\relax }}{55}{figure.caption.21}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Scherm met Trigger voor een bepaalde pipeline op Google Cloud. Figuur toont het scherm van Google Cloud met een gecre\IeC {\"e}erde Trigger op de tak 'Build' op GitHub.\relax }}{63}{figure.caption.21}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Figuur toont een simpel dashboard met gegevens over de uitgevoerde testen.\relax }}{57}{figure.caption.22}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Resultaat ven de applicatie. Figuur toont de uitvoer van de gecompileerde applicatie op een lokale Windows Server 2019. Applicatie is gekopieerd door middel van \emph {script~\ref {code:filetrans}}.\relax }}{64}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Figuur toont hoe een release pijpleiding op Azure DeVops geconfigureerd wordt. In dit geval wordt er een Ubuntu machine geconfigureerd met een script.\relax }}{60}{figure.caption.23}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Console uitvoer van een pipeline op Google Cloud. Figuur toont het resultaat van de compilatie stappen op Google Cloud. Ook zijn er een aantal andere logs te bekijken op dit scherm.\relax }}{64}{figure.caption.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.16}{\ignorespaces De figuur toont een kort overzicht van de totaal gemaakte pijpleiding op Azure DeVops.\relax }}{60}{figure.caption.24}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Compileer resultaten dashboard op Google Cloud. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.\relax }}{65}{figure.caption.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Figuur toont een simpel dashboard met gegevens over de compilatie pijpleiding.\relax }}{61}{figure.caption.25}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Hoofd scherm Azure DeVops. Figuur toont een nieuw aangemaakt project op Azure DeVops.\relax }}{66}{figure.caption.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Test-pass dashboard Azure DeVops. Figuur toont een simpel dashboard met gegevens over de uitgevoerde testen.\relax }}{68}{figure.caption.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Release pipeline configuratie. Figuur toont hoe een release pipeline op Azure DeVops wordt geconfigureerd. In dit geval wordt er een Ubuntu machine geconfigureerd met een script.\relax }}{70}{figure.caption.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Grafische weergave Azure DeVops pipeline. De figuur toont een kort overzicht van de totale pipeline op Azure DeVops.\relax }}{71}{figure.caption.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Project overzicht dashboard Azure DeVops. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.\relax }}{71}{figure.caption.29}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
