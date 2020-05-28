@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.14)  28 MAY 2020 23:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.14)  29 MAY 2020 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1972,13 +1972,13 @@ Package babel Info: Redefining dutch shorthand "~
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 39.
  [5])
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 69.
@@ -3542,13 +3542,13 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40405 strings out of 492995
- 739131 string characters out of 6132704
- 1432219 words of memory out of 5000000
+ 40402 strings out of 492995
+ 739107 string characters out of 6132704
+ 1432217 words of memory out of 5000000
  42481 multiletter control sequences out of 15000+600000
- 70636 words of font info for 254 fonts, out of 8000000 for 9000
+ 70326 words of font info for 252 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,84p,10424b,3619s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,84p,10424b,3617s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/urw/avantgar/uagd8a.pfb></usr/local/texlive/2
@@ -3557,10 +3557,10 @@ mf-dist/fonts/type1/urw/avantgar/uagko8a.pfb></usr/local/texlive/2017/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on bachproef-tin.pdf (84 pages, 4641173 bytes).
+Output written on bachproef-tin.pdf (84 pages, 4641253 bytes).
 PDF statistics:
- 1551 PDF objects out of 1728 (max. 8388607)
- 1310 compressed objects within 14 object streams
+ 1552 PDF objects out of 1728 (max. 8388607)
+ 1311 compressed objects within 14 object streams
  536 named destinations out of 1000 (max. 500000)
  34848 words of extra memory for PDF output out of 35830 (max. 10000000)
 

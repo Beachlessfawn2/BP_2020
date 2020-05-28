@@ -16,7 +16,7 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Prijzen van Azure DeVops. \href {https://azure.microsoft.com/nl-nl/pricing/details/devops/azure-devops-services/}{Afbeelding van Azure DeVops website}. Figuur toont de prijzen voor Azure DeVops op een beknopte manier.\relax }}{39}{figure.caption.10}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Prijzen van Azure DevOps. \href {https://azure.microsoft.com/nl-nl/pricing/details/devops/azure-devops-services/}{Afbeelding van Azure DeVops website}. Figuur toont de prijzen voor Azure DeVops op een beknopte manier.\relax }}{39}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.2}{\ignorespaces GCB prijzen. \href {https://cloud.google.com/cloud-build/pricing}{Figuur van Google Cloud website}. Figuur toont de prijzen voor Google Cloud Platform op een beknopte manier.\relax }}{41}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
@@ -28,7 +28,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.6}{\ignorespaces BronCode locatie seleceteren op AWS. Deze figuur toont het selecteren van een GitHub repositorie bij het aanmaken van een pipeline op Amazon AWS.\relax }}{50}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Een ingebouwd dashboard op Azure DeVops. Dit dashboard geeft de resultaten van de uitgevoerde testen tijdens de laatste compilatie.\relax }}{54}{figure.caption.16}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Een ingebouwd dashboard op Azure DevOps. Dit dashboard geeft de resultaten van de uitgevoerde testen tijdens de laatste compilatie.\relax }}{54}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.8}{\ignorespaces Overzicht van datacenter locaties Google Cloud. Figuur van \href {}{Google Cloud website}. Figuur toont de connectiviteit van de verschillende datacenters verspreid over de wereld.\relax }}{55}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
@@ -46,15 +46,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {5.6}{\ignorespaces Compileer resultaten dashboard op Google Cloud. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.\relax }}{65}{figure.caption.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Hoofd scherm Azure DeVops. Figuur toont een nieuw aangemaakt project op Azure DeVops.\relax }}{66}{figure.caption.25}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Hoofd scherm Azure DevOps. Figuur toont een nieuw aangemaakt project op Azure DevOps.\relax }}{66}{figure.caption.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Test-pass dashboard Azure DeVops. Figuur toont een simpel dashboard met gegevens over de uitgevoerde testen.\relax }}{68}{figure.caption.26}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Test-pass dashboard Azure DevOps. Figuur toont een simpel dashboard met gegevens over de uitgevoerde testen.\relax }}{68}{figure.caption.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Release pipeline configuratie. Figuur toont hoe een release pipeline op Azure DeVops wordt geconfigureerd. In dit geval wordt er een Ubuntu machine geconfigureerd met een script.\relax }}{70}{figure.caption.27}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Release pipeline configuratie. Figuur toont hoe een release pipeline op Azure DevOps wordt geconfigureerd. In dit geval wordt er een Ubuntu machine geconfigureerd met een script.\relax }}{70}{figure.caption.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Grafische weergave Azure DeVops pipeline. De figuur toont een kort overzicht van de totale pipeline op Azure DeVops.\relax }}{71}{figure.caption.28}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Grafische weergave Azure DevOps pipeline. De figuur toont een kort overzicht van de totale pipeline op Azure DevOps.\relax }}{71}{figure.caption.28}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Project overzicht dashboard Azure DeVops. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.\relax }}{71}{figure.caption.29}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Project overzicht dashboard Azure DevOps. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.\relax }}{71}{figure.caption.29}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 

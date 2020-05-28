@@ -29,4 +29,14 @@
 % De samenvatting in de hoofdtaal van het document
 
 \chapter*{\IfLanguageName{dutch}{Samenvatting}{Abstract}}
+Software release management, in het bijzonder CI/CD, is tegenwoordig niet meer weg te denken uit informatica gerichte bedrijven. Deze procedures zorgen ervoor dat er sneller kwalitatieve software tot bij de klant geraakt. Des ondanks zijn er maar weinig onderzoeken gebeurt naar welk Cloud platform de meest geschikte mogelijkheden heeft om CI/CD te implementeren. Er bestaan tal van onderzoeken over frameworks en containerized oplossingen voor dit probleem. Dit onderzoek heeft in detail bekeken wat voor specifieke mogelijkheden de platformen aanbieden voor CI/CD. 
 
+Dit onderzoek is vertrokken van een use case van Aucxis. Deze heeft als doel kwalitatievere software opleveren. Deze use case draait volledig in het Microsoft ecosysteem. Er wordt een .Net applicatie gecompileerd. Dit wordt bereikt door het configureren van een pipeline op Azure DevOps. Dit onderzoek heeft geprobeerd om een alternatief platform te vinden voor Azure DevOps. 
+
+Deze kandidaat is geselecteerd op basis van de aangeboden producten en services voor CI/CD. Ook is er een test gedaan voor de gebruiksvriendelijkheid te staven. Dit is uitgevoerd door een handleiding van het platform te volgen waarbij een eenvoudige Java applicatie werd gecompileerd. De gespendeerde tijd voor het uitvoeren van deze handleidingen is een goede indicator of het platform gemakkelijk in gebruik is. Dit onderzoek heeft vastgesteld dat het best alternatief Google Cloud is op basis van de producten catalogus, beschikbare documentatie en de gebruiksvriendelijkheid test. 
+
+Om aan te tonen dat dit alternatieve platform een goed alternatief is, is er een Proof Of Concept opgesteld waarbij een eenvoudige .Net applicatie wordt gecompileerd en geüpload naar een lokale test omgeving. Hierbij werd ook de visualisatie van de log-gegevens bekeken. Ook werden alle hulpmiddelen voor CI/CD op Google Cloud bekeken. In vergelijking met Azure DevOps laat Google Cloud steken vallen op vlak van visualistie en hulpmiddelen. Google Cloud is wel gemakkelijker om aan te passen.
+
+Benaderd vanuit het Microsoft ecosysteem is Azure DevOps een zeer goede en logische keuze. Zeker omdat een hele hoop producten en services, die anders aanvullende kosten hebben, vrij te gebruiken zijn. Ook zijn alle hulpmiddelen om software te ontwikkelen volledig geïntegreerd in het platform. Gebruikers die buiten dit ecosysteem werken kijken beter naar Google Cloud in samenwerking met andere tools en oplossingen.
+
+In een volgend onderzoek kan het interessant zijn om het Tekton framework te onderzoeken. Ook kan er onderzocht worden of een systeem zoals Grafana kan gebruikt worden om log gegevens beter te visualiseren voor Google Cloud.

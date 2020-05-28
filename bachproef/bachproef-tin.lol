@@ -11,7 +11,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {4.6}YAML-bestand voor het configureren van een pijpleiding voor java op Google Cloud.}{51}{lstlisting.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {4.7}YAML-bestand voor het configureren van een pipeline voor java op Azure DeVops.}{52}{lstlisting.4.7}
+\contentsline {lstlisting}{\numberline {4.7}YAML-bestand voor het configureren van een pipeline voor java op Azure DevOps.}{52}{lstlisting.4.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {5.1}C\# bestand MessageUtil.cs. Hoofd klasse van de applicatie \emph {MessageUtil}}{57}{lstlisting.5.1}
 \defcounter {refsection}{0}\relax 
@@ -25,10 +25,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {5.6}YAML-bestand voor de configuratie van de .Net pijpleiding op Google CLoud.}{62}{lstlisting.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {5.7}Tree van de bestanden structuur voor de Proof Of Concept op Azure DeVops.}{66}{lstlisting.5.7}
+\contentsline {lstlisting}{\numberline {5.7}Tree van de bestanden structuur voor de Proof Of Concept op Azure DevOps.}{66}{lstlisting.5.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {5.8}YAML-bestand voor de configuratie van de .Net pipeline op Azure DeVops.}{67}{lstlisting.5.8}
+\contentsline {lstlisting}{\numberline {5.8}YAML-bestand voor de configuratie van de .Net pipeline op Azure DevOps.}{67}{lstlisting.5.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {lstlisting}{\numberline {5.9}PowerShell script dat een map compresseert. Wordt gebruikt om alle .Net Framework afhankelijkheden mee te verpakken.}{68}{lstlisting.5.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {lstlisting}{\numberline {5.10}Verbeterd YAML-bestand voor de configuratie van de .Net pipeline op Azure DeVops.}{69}{lstlisting.5.10}
+\contentsline {lstlisting}{\numberline {5.10}Verbeterd YAML-bestand voor de configuratie van de .Net pipeline op Azure DevOps.}{69}{lstlisting.5.10}

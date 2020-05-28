@@ -230,14 +230,14 @@ Tot slot is er op de online console van Google Cloud een simpel dashboard te zie
 Door deze POC op te stellen is er gebleken dat Google Cloud Build Code gemakkelijk te gebruiken is. Dat is, eenmaal de gebruiker er thuis in is. Er bestaat redelijk wat documentatie over wat allemaal mogelijk is in een ‘cloudbuild.yaml’. Helaas is het voor een beginner niet gemakkelijk om te verstaan hoe de verschillende containers met elkaar samenwerken en waar nu alle bestanden staan. Ook is een goede kennis van de containers nodig om te kunnen verstaan wat er allemaal mogelijk is. Dit zorgt ervoor dat het lang kan duren vooraleer er een pipeline operationeel is. Ook is het spijtig dat er niet meer analytics te verkrijgen zijn op Google Cloud Code Build. De gebruiker heeft enkel de analytics van wat er door Google zelf wordt aangeboden. Na het opstellen van deze POC is er ook gebleken dat Google Cloud niet zo duur is. Al het testen en uitproberen heeft slechts 0.40 euro gekost.
 Het kan interessant zijn om in een later onderzoek te kijken of het niet mogelijk is om de gegenereerde log bestanden van Google Cloud te downloaden en te gebruiken voor eigen visualisatie systemen zoals: Grafana. 
 
-\subsection{Azure DeVops}
+\subsection{Azure DevOps}
 \label{sec:VergelijkingADV}
-Naast de POC op Google Cloud is het ook nog interessant om dezelfde opstelling eens te maken in Azure DeVops. Dit om de ervaring en de functionaliteit naast elkaar te kunnen leggen. Voor de POC op Azure DeVops is er een nieuw DeVops project aangemaakt. Dit project heeft de naam ‘poc\_azure\_dotnet’ gekregen. \emph{Figuur~\ref{fig:Azure_POC_proj}} toont het aangemaakte project. Net zoals GCP bevatten projecten alle toegewezen producten en services die zijn geconfigureerd. Ook is het gemakkelijk opnieuw te verwijderen en stopt dan ook de aanrekening.
+Naast de POC op Google Cloud is het ook nog interessant om dezelfde opstelling eens te maken in Azure DevOps. Dit om de ervaring en de functionaliteit naast elkaar te kunnen leggen. Voor de POC op Azure DevOps is er een nieuw DevOps project aangemaakt. Dit project heeft de naam ‘poc\_azure\_dotnet’ gekregen. \emph{Figuur~\ref{fig:Azure_POC_proj}} toont het aangemaakte project. Net zoals GCP bevatten projecten alle toegewezen producten en services die zijn geconfigureerd. Ook is het gemakkelijk opnieuw te verwijderen en stopt dan ook de aanrekening.
 
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=\linewidth]{/Users/kenzie/Documents/HoGent/Bachelorproef/Images/azure_net_demo_proj.png}
-    \caption{Hoofd scherm Azure DeVops. Figuur toont een nieuw aangemaakt project op Azure DeVops.}
+    \caption{Hoofd scherm Azure DevOps. Figuur toont een nieuw aangemaakt project op Azure DevOps.}
     \label{fig:Azure_POC_proj}
 \end{figure}
 
@@ -245,7 +245,7 @@ Deze POC vertrekt vanuit dezelfde applicatie als bij GCP. Hiervoor is er een nie
 
 \lstset{
     language=bash,
-    caption={Tree van de bestanden structuur voor de Proof Of Concept op Azure DeVops.},
+    caption={Tree van de bestanden structuur voor de Proof Of Concept op Azure DevOps.},
     label=code:azuregittree
 }
 \begin{lstlisting}
@@ -260,11 +260,11 @@ poc_azure_dotnet/
 `--- MessageUtilTests.cs
 \end{lstlisting}
 
-Hierna is er op Azure DeVops een nieuwe pijpleiding aangemaakt. Dit was zeer gemakkelijk te volgen door middel van de online wizard. Eerst moest er gekozen worden wat versiebeheersysteem de gebruiker gebruikt. Hier is er gekozen voor GitHub. Vervolgens vraagt Azure DeVops de gebruiker toestemming voor het uitlezen van de repositories. Tegelijk wordt ook de Azure DeVops applicatie toegevoegd aan de gebruiker zijn GitHub. Na de initialisatie van de Azure DeVops applicatie voor GitHub moest er een reposirotry worden geselecteerd. Hier is er gekozen voor de zojuist gemaakte GitHub repository. Azure DeVops leest deze repository uit en stelt dan op basis van de bestanden de juiste compilatie oplossing voor. Voor deze POC stelde Azure DeVops .Net Core voor als compilatie programma. Er is voor dezen oplossing gekozen. Azure DeVops toont hierna een Yaml-bestand, ‘azure-pipelines.yml’, met voor gemaakte stappen. Dit YAML-bestand bevat drie stappen. Een eerste stap die de juiste pakketten installeert op de virtuele machine. In een tweede stap wordt de applicatie gecompileerd. In de derde stap worden de meegeleverde testen uit \emph{MessagUtilTest~\ref{code:messageutiltest}} uitgevoerd. \emph{Figuur~\ref{code:azure-pipelines-poc}} toont dit YAML-bestand.
+Hierna is er op Azure DevOps een nieuwe pijpleiding aangemaakt. Dit was zeer gemakkelijk te volgen door middel van de online wizard. Eerst moest er gekozen worden wat versiebeheersysteem de gebruiker gebruikt. Hier is er gekozen voor GitHub. Vervolgens vraagt Azure DevOps de gebruiker toestemming voor het uitlezen van de repositories. Tegelijk wordt ook de Azure DevOps applicatie toegevoegd aan de gebruiker zijn GitHub. Na de initialisatie van de Azure DevOps applicatie voor GitHub moest er een reposirotry worden geselecteerd. Hier is er gekozen voor de zojuist gemaakte GitHub repository. Azure DevOps leest deze repository uit en stelt dan op basis van de bestanden de juiste compilatie oplossing voor. Voor deze POC stelde Azure DevOps .Net Core voor als compilatie programma. Er is voor dezen oplossing gekozen. Azure DevOps toont hierna een Yaml-bestand, ‘azure-pipelines.yml’, met voor gemaakte stappen. Dit YAML-bestand bevat drie stappen. Een eerste stap die de juiste pakketten installeert op de virtuele machine. In een tweede stap wordt de applicatie gecompileerd. In de derde stap worden de meegeleverde testen uit \emph{MessagUtilTest~\ref{code:messageutiltest}} uitgevoerd. \emph{Figuur~\ref{code:azure-pipelines-poc}} toont dit YAML-bestand.
 
 \lstset{
     language=bash,
-    caption={YAML-bestand voor de configuratie van de .Net pipeline op Azure DeVops.},
+    caption={YAML-bestand voor de configuratie van de .Net pipeline op Azure DevOps.},
     label=code:azure-pipelines-poc
 }
 \begin{lstlisting}
@@ -305,12 +305,12 @@ configuration: '$(buildConfiguration)'
 
 Verwacht was dat dit een werkend vertrekpunt is voor de pipeline. Zeker omdat deze applicatie met een Microsoft specifieke taal is gemaakt, met behulp van het .Net framework dat ook Microsoft specifiek is. In eerste instantie leek deze pipeline te werken. Maar na het bekijken van de logbestanden is er vastgesteld dat de testen niet werden uitgevoerd. Er is gezocht naar een oplossing voor dit probleem. Er is geen duidelijke oplossing gevonden voor de huidige configuratie. De documentatie over deze modules was zeer onduidelijk en moeilijk te begrijpen. Zeker vanuit het standpunt van een beginner. In dit opzicht is er gekozen om opnieuw te beginnen aan de hand van een andere \emph{\href{https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops}{handleiding}} op Azure. Deze gebruikt een voor gemaakte Windows virtuele machine met .Net core geïnstalleerd. Over deze module is uitgebreide documentatie te vinden. Daarnaast zijn er door Microsoft ook voorbeelden ter beschikking. Dit was dan ook het perfecte vertrekpunt.
 
-Dit nieuw YAML-bestand bestaat uit zes stappen. In een eerste stap wordt de ‘MessageUtil’ applicatie volledige herbouwt. Deze staat dan klaar voor verdere stappen. In de tweede stap wordt de applicatie gecompileerd. De derde stap voert de meegeleverde testen uit. Ook publiceert het de resultaten op Azure DeVops. \emph{Figuur~\ref{fig:Azure_POC_testr}} toont een voorbeeld van uitgevoerde testen. De vierde stap compileert een uitrol versie voor het '64 bit Windows 10' platform in een map, publish. In de vijfde stap wordt er een PowerShell script uitgevoerd. Dit Script comprimeert de map publish. \emph{Figuur~\ref{code:zipping}} toont het ‘zipping.ps1’ script. In een laatste stap wordt deze gecomprimeerde map gepubliceerd als een artifact zodanig dat de applicatie klaarstaat om in een latere stap te worden uitgerold. \emph{Figuur~\ref{code:azure-pipelines-poc-n}} toont het verbeterde ‘azure-pipelines.yml’. Vervolgens is deze code toegevoegd op GitHub.
+Dit nieuw YAML-bestand bestaat uit zes stappen. In een eerste stap wordt de ‘MessageUtil’ applicatie volledige herbouwt. Deze staat dan klaar voor verdere stappen. In de tweede stap wordt de applicatie gecompileerd. De derde stap voert de meegeleverde testen uit. Ook publiceert het de resultaten op Azure DevOps. \emph{Figuur~\ref{fig:Azure_POC_testr}} toont een voorbeeld van uitgevoerde testen. De vierde stap compileert een uitrol versie voor het '64 bit Windows 10' platform in een map, publish. In de vijfde stap wordt er een PowerShell script uitgevoerd. Dit Script comprimeert de map publish. \emph{Figuur~\ref{code:zipping}} toont het ‘zipping.ps1’ script. In een laatste stap wordt deze gecomprimeerde map gepubliceerd als een artifact zodanig dat de applicatie klaarstaat om in een latere stap te worden uitgerold. \emph{Figuur~\ref{code:azure-pipelines-poc-n}} toont het verbeterde ‘azure-pipelines.yml’. Vervolgens is deze code toegevoegd op GitHub.
 
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=\linewidth]{/Users/kenzie/Documents/HoGent/Bachelorproef/Images/azure_net_demo_testr.png}
-    \caption{Test-pass dashboard Azure DeVops. Figuur toont een simpel dashboard met gegevens over de uitgevoerde testen.}
+    \caption{Test-pass dashboard Azure DevOps. Figuur toont een simpel dashboard met gegevens over de uitgevoerde testen.}
     \label{fig:Azure_POC_testr}
 \end{figure}
 
@@ -330,7 +330,7 @@ Compress-Archive @compress
 
 \lstset{
     language=bash,
-    caption={Verbeterd YAML-bestand voor de configuratie van de .Net pipeline op Azure DeVops.},
+    caption={Verbeterd YAML-bestand voor de configuratie van de .Net pipeline op Azure DevOps.},
     label=code:azure-pipelines-poc-n
 }
 \begin{lstlisting}
@@ -387,31 +387,31 @@ artifactName: MessageUtil
 displayName: 'Upload Zip'
 \end{lstlisting}
 
-Het CI-gedeelte van de pipeline werkt met deze code. Voor het CD-gedeelte moest er een nieuwe release pipeline worden gemaakt. Op Azure DeVops is er een nieuwe release gemaakt bestaande uit een Linux Ubuntu machine. Deze virtuele machine download het gemaakte artifact en verzend dit bestand naar de lokale Windows Server. Deze virtuele machine voert het script uit \emph{figuur~\ref{code:filetrans}} uit. Het instellen van deze release pipeline is zeer gemakkelijk door de online wizard. \emph{Figuur~\ref{fig:Azure_POC_release}} toont het instellen van de virtuele machine. Ook zijn er talloze opties voor het instellen van toestemmingen, rechten, controles, enz. Dit kan interessant zijn in een productie omgeving. Deze POC laat dit buiten beschouwing. \emph{Figuur~\ref{fig:Azure_POC_pijp}} toont de volledige pipeline.
+Het CI-gedeelte van de pipeline werkt met deze code. Voor het CD-gedeelte moest er een nieuwe release pipeline worden gemaakt. Op Azure DevOps is er een nieuwe release gemaakt bestaande uit een Linux Ubuntu machine. Deze virtuele machine download het gemaakte artifact en verzend dit bestand naar de lokale Windows Server. Deze virtuele machine voert het script uit \emph{figuur~\ref{code:filetrans}} uit. Het instellen van deze release pipeline is zeer gemakkelijk door de online wizard. \emph{Figuur~\ref{fig:Azure_POC_release}} toont het instellen van de virtuele machine. Ook zijn er talloze opties voor het instellen van toestemmingen, rechten, controles, enz. Dit kan interessant zijn in een productie omgeving. Deze POC laat dit buiten beschouwing. \emph{Figuur~\ref{fig:Azure_POC_pijp}} toont de volledige pipeline.
 
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=\linewidth]{/Users/kenzie/Documents/HoGent/Bachelorproef/Images/azure_net_demo_release.png}
-    \caption{Release pipeline configuratie. Figuur toont hoe een release pipeline op Azure DeVops wordt geconfigureerd. In dit geval wordt er een Ubuntu machine geconfigureerd met een script.}
+    \caption{Release pipeline configuratie. Figuur toont hoe een release pipeline op Azure DevOps wordt geconfigureerd. In dit geval wordt er een Ubuntu machine geconfigureerd met een script.}
     \label{fig:Azure_POC_release}
 \end{figure}
 
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=\linewidth]{/Users/kenzie/Documents/HoGent/Bachelorproef/Images/azure_net_demo_pijp.png}
-    \caption{Grafische weergave Azure DeVops pipeline. De figuur toont een kort overzicht van de totale pipeline op Azure DeVops.}
+    \caption{Grafische weergave Azure DevOps pipeline. De figuur toont een kort overzicht van de totale pipeline op Azure DevOps.}
     \label{fig:Azure_POC_pijp}
 \end{figure}
 
-Azure DeVops heeft ook zeer goede analytics. Voor deze POC zijn er een aantal voorbeelden gemaakt. Net zoal Google Cloud heeft Azure ook Dashboards. \emph{Figuur~\ref{fig:Azure_POC_dashboard}} toont een overzicht van het project.
+Azure DevOps heeft ook zeer goede analytics. Voor deze POC zijn er een aantal voorbeelden gemaakt. Net zoal Google Cloud heeft Azure ook Dashboards. \emph{Figuur~\ref{fig:Azure_POC_dashboard}} toont een overzicht van het project.
 
 \begin{figure}[!htbp]
     \centering
     \includegraphics[width=\linewidth]{/Users/kenzie/Documents/HoGent/Bachelorproef/Images/azure_net_demo_dashboard.png}
-    \caption{Project overzicht dashboard Azure DeVops. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.}
+    \caption{Project overzicht dashboard Azure DevOps. Figuur toont een simpel dashboard met gegevens over de compilatie pipeline.}
     \label{fig:Azure_POC_dashboard}
 \end{figure}
 
-Uit deze POC is gebleken dat Azure DeVops veel minder complex is om te configureren dan Google Cloud Code Build. Dit komt door de gemakkelijk te gebruiken wizards die de gebruiker door de configuratie heen gidsen. Zo voelt de complexiteit van het configureren van een pipeline minder zwaar aan. Uit deze POC is gebleken dat de standaardoplossing die Azure DeVops voorstelt niet altijd even gemakkelijk is om aan te passen naar de gebruiker zijn noden. Deze POC heeft ook aangetoond dat de documentatie van Azure DeVops complex kan zijn. Zelfs na meerdere projecten te hebben getest, zijn sommige zaken nog niet helemaal duidelijk. Azure DeVops biedt zeer uitgebreide hulpmiddelen aan om allerlei data te visualiseren. Deze dashboards zijn gemakkelijk te creëren. Ook zijn deze duidelijk en overzichtelijk. Dit in tegenstelling tot Google Cloud. In vergelijking met Azure DeVops is Google Cloud gemakkelijker om aangepaste pipelines te maken. Dit omdat het intuïtiever is om de configuratie YAML-bestanden te maken. Ook omdat Google Cloud Code Build met Docker containers werkt. Dit zorgt ervoor dat compileer machines veel uitgebreider kunnen worden aangepast naar de noden van de gebruiker.
+Uit deze POC is gebleken dat Azure DevOps veel minder complex is om te configureren dan Google Cloud Code Build. Dit komt door de gemakkelijk te gebruiken wizards die de gebruiker door de configuratie heen gidsen. Zo voelt de complexiteit van het configureren van een pipeline minder zwaar aan. Uit deze POC is gebleken dat de standaardoplossing die Azure DevOps voorstelt niet altijd even gemakkelijk is om aan te passen naar de gebruiker zijn noden. Deze POC heeft ook aangetoond dat de documentatie van Azure DevOps complex kan zijn. Zelfs na meerdere projecten te hebben getest, zijn sommige zaken nog niet helemaal duidelijk. Azure DevOps biedt zeer uitgebreide hulpmiddelen aan om allerlei data te visualiseren. Deze dashboards zijn gemakkelijk te creëren. Ook zijn deze duidelijk en overzichtelijk. Dit in tegenstelling tot Google Cloud. In vergelijking met Azure DevOps is Google Cloud gemakkelijker om aangepaste pipelines te maken. Dit omdat het intuïtiever is om de configuratie YAML-bestanden te maken. Ook omdat Google Cloud Code Build met Docker containers werkt. Dit zorgt ervoor dat compileer machines veel uitgebreider kunnen worden aangepast naar de noden van de gebruiker.
 
-Benaderd vanuit het Microsoft ecosysteem is Azure DeVops een zeer goede en logische keuze. Zeker omdat een hele hoop producten en services, die anders aanvullende kosten hebben, vrij te gebruiken zijn. Ook zijn alle hulpmiddelen om software te ontwikkelen volledig geïntegreerd in het platform. Gebruikers die buiten dit ecosysteem werken kijken beter naar Google Cloud in samenwerking met andere hulpmiddelen en oplossingen.
+Benaderd vanuit het Microsoft ecosysteem is Azure DevOps een zeer goede en logische keuze. Zeker omdat een hele hoop producten en services, die anders aanvullende kosten hebben, vrij te gebruiken zijn. Ook zijn alle hulpmiddelen om software te ontwikkelen volledig geïntegreerd in het platform. Gebruikers die buiten dit ecosysteem werken kijken beter naar Google Cloud in samenwerking met andere hulpmiddelen en oplossingen.
